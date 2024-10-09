@@ -1,0 +1,15 @@
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\bin\Debug\net8.0\ERandevuServer.Application.deps.json
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\bin\Debug\net8.0\ERandevuServer.Application.dll
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\bin\Debug\net8.0\ERandevuServer.Application.pdb
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\bin\Debug\net8.0\ERandevuServer.Domain.dll
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\bin\Debug\net8.0\ERandevuServer.Domain.pdb
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ERandevuServer.Application.csproj.AssemblyReference.cache
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ERandevuServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ERandevuServer.Application.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ERandevuServer.Application.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ERandevuServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ERandevu.A65FC35C.Up2Date
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ERandevuServer.Application.dll
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\refint\ERandevuServer.Application.dll
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ERandevuServer.Application.pdb
+C:\Users\bkesk\Desktop\ERandevu\ERandevuServer\ERandevuServer.Application\obj\Debug\net8.0\ref\ERandevuServer.Application.dll

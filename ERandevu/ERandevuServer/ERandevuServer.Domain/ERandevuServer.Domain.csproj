@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <!--Uyarıları(warnings) hataya(errors) çevirir ve normalde derlenecek olan projenin derlenmesini engeller.-->
+	  <!--Kod kalitesini artırmak ve gelecekteki hataları önlemek için kullanılır-->
+	  <TreatWarningsAsErrors>true</TreatWarningsAsErrors> 
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ardalis.SmartEnum" Version="8.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.10" />
+    <PackageReference Include="TS.EntityFrameworkCore.GenericRepository" Version="8.0.4" />
+  </ItemGroup>
+
+</Project>

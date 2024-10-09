@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|solutionrelative:erandevuserver.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|solutionrelative:erandevuserver.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|solutionrelative:erandevuserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|solutionrelative:erandevuserver.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.infrastructure\\configuration\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5089F0C5-F06D-437F-892F-CAE7606223EC}|ERandevuServer.Infrastructure\\ERandevuServer.Infrastructure.csproj|solutionrelative:erandevuserver.infrastructure\\configuration\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72245E00-CAD2-486B-A858-CB9B3D8FF0B8}|ERandevuServer.Domain\\ERandevuServer.Domain.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72245E00-CAD2-486B-A858-CB9B3D8FF0B8}|ERandevuServer.Domain\\ERandevuServer.Domain.csproj|solutionrelative:erandevuserver.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A30ABF-5026-480F-BD9E-7A7B80143D40}|ERandevuServer.Application\\ERandevuServer.Application.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.application\\features\\auth\\login\\logincammandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A30ABF-5026-480F-BD9E-7A7B80143D40}|ERandevuServer.Application\\ERandevuServer.Application.csproj|solutionrelative:erandevuserver.application\\features\\auth\\login\\logincammandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A30ABF-5026-480F-BD9E-7A7B80143D40}|ERandevuServer.Application\\ERandevuServer.Application.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.application\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A30ABF-5026-480F-BD9E-7A7B80143D40}|ERandevuServer.Application\\ERandevuServer.Application.csproj|solutionrelative:erandevuserver.application\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A30ABF-5026-480F-BD9E-7A7B80143D40}|ERandevuServer.Application\\ERandevuServer.Application.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.application\\features\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A30ABF-5026-480F-BD9E-7A7B80143D40}|ERandevuServer.Application\\ERandevuServer.Application.csproj|solutionrelative:erandevuserver.application\\features\\auth\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A30ABF-5026-480F-BD9E-7A7B80143D40}|ERandevuServer.Application\\ERandevuServer.Application.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A30ABF-5026-480F-BD9E-7A7B80143D40}|ERandevuServer.Application\\ERandevuServer.Application.csproj|solutionrelative:erandevuserver.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72245E00-CAD2-486B-A858-CB9B3D8FF0B8}|ERandevuServer.Domain\\ERandevuServer.Domain.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.domain\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72245E00-CAD2-486B-A858-CB9B3D8FF0B8}|ERandevuServer.Domain\\ERandevuServer.Domain.csproj|solutionrelative:erandevuserver.domain\\repositories\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72245E00-CAD2-486B-A858-CB9B3D8FF0B8}|ERandevuServer.Domain\\ERandevuServer.Domain.csproj|c:\\users\\bkesk\\desktop\\erandevu\\erandevuserver\\erandevuserver.domain\\erandevuserver.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72245E00-CAD2-486B-A858-CB9B3D8FF0B8}|ERandevuServer.Domain\\ERandevuServer.Domain.csproj|solutionrelative:erandevuserver.domain\\erandevuserver.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Infrastructure\\Services\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\Services\\JwtProvider.cs*",
+              "RelativeToolTip": "ERandevuServer.Infrastructure\\Services\\JwtProvider.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:19:35.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ERandevuServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:31:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\DependencyInjection.cs*",
+              "RelativeToolTip": "ERandevuServer.Infrastructure\\DependencyInjection.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:20:21.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "ERandevuServer.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:04:12.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\Configuration\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Infrastructure\\Configuration\\DoctorConfiguration.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Infrastructure\\Configuration\\DoctorConfiguration.cs",
+              "RelativeToolTip": "ERandevuServer.Infrastructure\\Configuration\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:51:07.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "ERandevuServer.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:08:17.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginCammandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Application\\Features\\Auth\\Login\\LoginCammandHandler.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Application\\Features\\Auth\\Login\\LoginCammandHandler.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Application\\Features\\Auth\\Login\\LoginCammandHandler.cs",
+              "RelativeToolTip": "ERandevuServer.Application\\Features\\Auth\\Login\\LoginCammandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:12:55.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Application\\Services\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Application\\Services\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Application\\Services\\IJwtProvider.cs",
+              "RelativeToolTip": "ERandevuServer.Application\\Services\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:10:42.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "ERandevuServer.Application\\Features\\Auth\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:48:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "ERandevuServer.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:18:39.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Domain\\Repositories\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "ERandevuServer.Domain\\Repositories\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Domain\\Repositories\\IDoctorRepository.cs",
+              "RelativeToolTip": "ERandevuServer.Domain\\Repositories\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:09:10.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ERandevuServer.Domain",
+              "DocumentMoniker": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Domain\\ERandevuServer.Domain.csproj",
+              "RelativeDocumentMoniker": "ERandevuServer.Domain\\ERandevuServer.Domain.csproj",
+              "ToolTip": "C:\\Users\\bkesk\\Desktop\\ERandevu\\ERandevuServer\\ERandevuServer.Domain\\ERandevuServer.Domain.csproj",
+              "RelativeToolTip": "ERandevuServer.Domain\\ERandevuServer.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T15:07:01.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
