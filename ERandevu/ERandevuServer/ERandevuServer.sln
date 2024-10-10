@@ -5,9 +5,11 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERandevuServer.Domain", "ERandevuServer.Domain\ERandevuServer.Domain.csproj", "{72245E00-CAD2-486B-A858-CB9B3D8FF0B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERandevuServer.Application", "ERandevuServer.Application\ERandevuServer.Application.csproj", "{A8A30ABF-5026-480F-BD9E-7A7B80143D40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERandevuServer.Application", "ERandevuServer.Application\ERandevuServer.Application.csproj", "{A8A30ABF-5026-480F-BD9E-7A7B80143D40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERandevuServer.Infrastructure", "ERandevuServer.Infrastructure\ERandevuServer.Infrastructure.csproj", "{5089F0C5-F06D-437F-892F-CAE7606223EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERandevuServer.Infrastructure", "ERandevuServer.Infrastructure\ERandevuServer.Infrastructure.csproj", "{5089F0C5-F06D-437F-892F-CAE7606223EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERandevuServer.WebAPI", "ERandevuServer.WebAPI\ERandevuServer.WebAPI.csproj", "{E1817D93-174E-4FDD-A6B1-79F81DCADDF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5089F0C5-F06D-437F-892F-CAE7606223EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5089F0C5-F06D-437F-892F-CAE7606223EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5089F0C5-F06D-437F-892F-CAE7606223EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1817D93-174E-4FDD-A6B1-79F81DCADDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1817D93-174E-4FDD-A6B1-79F81DCADDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1817D93-174E-4FDD-A6B1-79F81DCADDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1817D93-174E-4FDD-A6B1-79F81DCADDF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

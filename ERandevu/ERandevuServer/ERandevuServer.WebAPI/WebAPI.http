@@ -1,0 +1,12 @@
+@ERandevuServer.WebAPI_HostAddress = http://localhost:5206
+
+POST http://localhost:5206/api/Auth/Login
+Accept: application/json
+Content-Type: application/json
+
+{
+  "userNameOrEmail": "admin",
+  "password": "1"
+}
+
+###

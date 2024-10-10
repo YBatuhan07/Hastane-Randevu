@@ -1,17 +1,13 @@
-﻿using ERandevuServer.Application.Services;
-using ERandevuServer.Domain.Entities;
-using ERandevuServer.Domain.Repositories;
+﻿using ERandevuServer.Domain.Entities;
 using ERandevuServer.Infrastructure.Context;
-using ERandevuServer.Infrastructure.Repositories;
-using ERandevuServer.Infrastructure.Services;
-using GenericRepository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Scrutor;
 
 namespace ERandevuServer.Infrastructure;
 
-    public static class DependencyInjection
+public static class DependencyInjection
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection services,
             IConfiguration configuration)
@@ -29,12 +25,14 @@ namespace ERandevuServer.Infrastructure;
             Action.Password.RequireDigit = false;
         }).AddEntityFrameworkStores<ApplicationDbContext>();
 
-        services.AddScoped<IAppointmentRepository, AppointmentRepository>();
-        services.AddScoped<IDoctorRepository, DoctorRepository>();
-        services.AddScoped<IPatientRepository, PatientRepository>();
-        services.AddScoped<IUnitOfWork>(x => x.GetRequiredService<ApplicationDbContext>());
-
-        services.AddScoped<IJwtProvider, JwtProvider>();
+        services.Scan(action =>
+        {
+            action.FromAssemblies(typeof(DependencyInjection).Assembly)
+            .AddClasses(publicOnly: false)
+            .UsingRegistrationStrategy(registrationStrategy: RegistrationStrategy.Skip)
+            .AsImplementedInterfaces()
+            .WithScopedLifetime();
+        });
         return services;
         }
     }

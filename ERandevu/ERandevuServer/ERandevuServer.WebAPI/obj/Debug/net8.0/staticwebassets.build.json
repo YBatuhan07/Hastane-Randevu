@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K0YcgaiClF51U7gMBZ2F7TVFOig9razHJLVSTWmrop8=",
+  "Source": "ERandevuServer.WebAPI",
+  "BasePath": "_content/ERandevuServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
